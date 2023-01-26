@@ -1,0 +1,127 @@
+.footer{
+    margin-top: 142px;
+    height: 348px;
+
+    background: rgba(38, 148, 153, 0.04);
+    .container {
+    }
+    .footer__wrapper {
+        
+    }
+    .footer__inner {
+        display: flex;
+    }
+    .footer__left {
+        margin-top: 70px;
+        width: 186px;
+        margin-right: 107px;
+    }
+    .footer__left-h4 {
+        width: 124px;
+        height: 36px;
+        left: 231px;
+        top: 3669px;
+
+        font-family: 'Ribeye';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 150%;
+        /* identical to box height, or 36px */
+
+        letter-spacing: 0.06em;
+
+        color: #000000;
+        margin-bottom: 40px;
+    }
+    .footer__left-p {
+        margin-bottom: 10px;
+        width: 86px;
+        height: 26px;
+        left: 231px;
+        top: 3745px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 160%;
+        /* identical to box height, or 26px */
+        
+        letter-spacing: 0.06em;
+        
+        color: #000000;
+    }
+    .footer__left-href {
+        width: 186px;
+        height: 26px;
+        left: 231px;
+        top: 3781px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 160%;
+        /* identical to box height, or 26px */
+        
+        letter-spacing: 0.06em;
+        
+        color: #000000;
+        
+    }
+    .footer__left-ikon-wrapper {
+        width: 161px;
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer__left-img-ikon {
+
+    }
+    .footer__left2 {
+        margin-top: 50px;
+        margin-right: 148px;
+    }
+    .footer__left2-list {
+    }
+    .li {
+    }
+    .footer__left2-item {
+        margin-top: 20px;
+
+    }
+    .footer__left3 {
+        margin-top: 50px;
+        width: 158px;
+        margin-right: 133px;
+    }
+    .footer__left3-list {
+    }
+    .footer__left3-item {
+        margin-top: 20px;
+    }
+    .footer__righit {
+        margin-top: 70px;
+    }
+    .footer__righit-heading {
+        margin-bottom: 42px;    
+    }
+    .footer__form {
+    }
+
+    .footer__input{
+        width: 195px;
+        height: 44px;
+    }
+
+    .footer__button{
+        width: 103px;
+        height: 44px;
+        left: 1240px;
+        top: 3741px;
+        
+        background: #C9453B;
+        border-radius: 5px;
+    }
+}

@@ -1,0 +1,197 @@
+.greal {
+    .greal__wrapper {
+    }
+    .greal__container {
+        max-width: 1600px;
+        margin: 0 auto;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .greal__inner {
+    }
+    .greal__text-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .greal__heading {
+        text-align: center;
+        width: 278px;
+        height: 60px;
+        left: 650px;
+        top: 1868px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 43px;
+        line-height: 140%;
+        /* or 60px */
+        
+        
+        color: #000000;
+        margin-bottom: 20px;
+    }
+    .greal__text {
+        margin-bottom: 60px;
+        width: 656px;
+        height: 58px;
+        left: 472px;
+        top: 1948px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+        /* or 29px */
+        
+        text-align: center;
+        
+        color: #000000;
+        
+        opacity: 0.6;
+        
+    }
+    .greal__list {
+        display: flex;
+        justify-content: space-between;
+    }
+    .greal__item {
+        width: 262px;
+    }
+    .greal__item-text-wrapper {
+        margin-top: 32px;
+        
+    }
+    .greal__item-heading {
+        margin-bottom: 8px;
+        width: 170px;
+        height: 36px;
+        left: 334px;
+        top: 2259px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 150%;
+        /* identical to box height, or 36px */
+        
+        
+        color: #000000;
+    }
+    .greal_item-span-wrapper {
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+    }
+
+    .greal__sapn1{
+        display: flex;
+        margin-right: 50px;
+        align-items: center;
+    }
+
+    .greal__sapn2{
+        display: flex;
+        align-items: center;
+    }
+    .greal__item-span-heading {
+        margin-left: 10px;
+        width: 51px;
+        height: 30px;
+        left: 354.86px;
+        top: 2303px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 150%;
+        /* identical to box height, or 30px */
+        
+        
+        color: #000000;
+        
+        opacity: 0.6;
+    }
+    .greal__item-bottom-text {
+        width: 104px;
+        height: 24px;
+        left: 334px;
+        top: 2341px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        /* identical to box height, or 24px */
+        
+        
+        color: #000000;
+        
+        opacity: 0.6;
+    }
+
+    .greal__bottom{
+        display: flex;
+        margin-top: 8px;
+        align-items: center;
+    }
+    .greal__item-bottom-span {
+    }
+    .greal__item-bottom-text2 {
+        display: flex;
+        width: 104px;
+        height: 24px;
+        left: 334px;
+        top: 2341px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        /* identical to box height, or 24px */
+        
+        
+        color: #000000;
+        
+        opacity: 0.6;
+    }
+
+
+    .greal__pasti {
+        position: relative;
+        margin-top: 52px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .greal__pasti-span {
+        display: block;
+        width: 229px;
+        height: 5px;
+        background: rgba(201, 69, 59, 0.4);
+        border-radius: 10px;
+    }
+    .greal__pasti-span2 {
+        width: 75px;
+        height: 5px;
+        display: block;
+        background: #C9453B;
+        border-radius: 10px;
+        position: absolute;
+    }
+    .greal__pasti-list {
+        width: 354px;
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        bottom: -3px;
+    }
+    .greall__pasti-item {
+    }
+}

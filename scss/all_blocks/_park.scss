@@ -1,0 +1,195 @@
+.park {
+    .park__wrapper {
+    }
+    .container {
+    }
+    .park__inner {
+
+    }
+
+    .park__kotta-wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .park__text-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 140px;
+        width: 581px;
+    }
+    .park__text-wrapper-heading {
+        width: 374px;
+        height: 60px;
+        left: 614px;
+        top: 2600px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 43px;
+        line-height: 140%;
+        /* or 60px */
+        
+        text-align: center;
+        
+        color: #000000;
+        margin-bottom: 20px;
+    }
+    .park__text-wrapper-text {
+        text-align: center;
+        margin-bottom: 50px;
+        width: 581px;
+        height: 58px;
+        left: 510px;
+        top: 2680px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+        /* or 29px */
+        
+        text-align: center;
+        
+        color: #000000;
+        
+        opacity: 0.6;
+    }
+    .park__big-wrapper{
+        display: flex;
+        justify-content: space-between;
+    }
+    .park__lift-wrapper {
+        width: 554px;
+    }
+    .park__lift-text-wrapper {
+        width: 470px;
+        margin-top: 35px;
+    }
+    .park__lift-text-wrapper-heading {
+        width: 271px;
+        height: 32px;
+        left: 230px;
+        top: 3226px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 160%;
+        /* identical to box height, or 32px */
+        
+        
+        color: #000000;
+        margin-bottom: 10px;
+    }
+    .park__lift-text-wrapper-text {
+        margin-bottom: 10px;
+        width: 470px;
+        height: 151px;
+        left: 230px;
+        top: 3268px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+        /* or 29px */
+        
+        
+        color: #000000;
+        
+        opacity: 0.6;
+    }
+    .park__lift-text-wrapper-link {
+        width: 192px;
+        height: 30px;
+        left: 230px;
+        top: 3429px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 150%;
+        /* identical to box height, or 30px */
+        
+        
+        color: #000000;
+    }
+
+    .park__righit-werapper {
+    }
+    .park__righit-list {
+    }
+    .park__righit-item {
+        height: 201px;
+        margin-bottom: 30px;
+        display: flex;
+        align-items: center;
+    }
+    .park__righit1 {
+        margin-right: 20px;
+    }
+    .park__righit2 {
+        width: 243px;
+    }
+    .park__h4 {
+        width: 226px;
+        height: 30px;
+        left: 1106px;
+        top: 2827px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 150%;
+        /* identical to box height, or 30px */
+        
+        
+        color: #000000;
+        margin-bottom: 10px;
+    }
+    .park__p {
+        width: 243px;
+        height: 60px;
+        left: 1106px;
+        top: 2867px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+        /* or 29px */
+        
+        
+        color: #000000;
+        
+        opacity: 0.6;
+        margin-bottom: 10px;
+    }
+    .park__a {
+        width: 115px;
+        height: 30px;
+        left: 1108px;
+        top: 3397px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 150%;
+        /* identical to box height, or 30px */
+        
+        
+        color: #000000;
+        
+        opacity: 0.8;
+    }
+}

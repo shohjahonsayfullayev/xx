@@ -1,0 +1,115 @@
+.hero {
+    margin-bottom: 140px;
+    .hero__wrapper {
+        margin-top: 108px;
+    }
+    .container {
+    }
+    .hero__inner {
+        
+    }
+    .hero__text-wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .hero__heading {
+        width: 346px;
+        height: 60px;
+        left: 637px;
+        top: 1040px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 43px;
+        line-height: 140%;
+        /* or 60px */
+        
+        
+        color: #000000;
+        margin-bottom: 20px;
+    }
+    .hero__text {
+        width: 735px;
+        height: 58px;
+        left: 433px;
+        top: 1120px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+        /* or 29px */
+        
+        text-align: center;
+        
+        color: #000000;
+        
+        opacity: 0.6;
+        margin-bottom: 50px;
+    }
+    .hero__list {
+        display: flex;
+    }
+    .hero__item {
+        margin-right: 31px;
+        width: 360px;
+        background: #FFFFFF;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        box-shadow: 0px 6px 35px rgba(0, 0, 0, 0.08);
+        border-radius: 10px;
+    }
+
+    .hero__list:nth-child(3){
+        margin-right: 0;
+    }
+    .hero__item-text-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .hero__item-img{
+        margin-bottom: 35px;
+    }
+    .hero__item-heading {
+        margin-bottom: 10px;
+        width: 275px;
+        height: 36px;
+        left: 664px;
+        top: 1594px;
+        
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 150%;
+        /* identical to box height, or 36px */
+        
+        text-align: center;
+        
+        color: #000000;
+    }
+    .hero__item-text {
+        margin-bottom: 33px;
+        width: 306px;
+        height: 55px;
+        left: 257px;
+        top: 1640px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+        /* or 29px */
+        
+        text-align: center;
+        
+        color: #000000;
+        
+        opacity: 0.6;
+    }
+}
